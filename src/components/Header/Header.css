@@ -1,0 +1,17 @@
+.perfil_conteudo {
+  margin: 35px;
+  text-align: center;
+  color: var(--cor-terciaria);
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.perfil_imagem {
+  display: block;
+  margin: auto;
+  width: 96px;
+  height: 96px;
+  background-image: url("https://lh3.googleusercontent.com/drive-viewer/AKGpihYd0eaO4xSiec8g-kkU_dd114gsFFo8Bur8M-qJnL7BgQGfkUFPB0LBL1CruOkOnkUHJ9BmbGZC8e7aNG1wnClQTcBrFA=w1325-h665");
+  background-size: cover;
+  border-radius: 50%;
+}

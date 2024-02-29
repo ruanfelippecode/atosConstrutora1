@@ -1,0 +1,10 @@
+:root {
+  --cor-bg: #d7d9ce;
+  --cor-secundaria: #000926;
+  --cor-terciaria: #002498;
+}
+
+body {
+  margin: 0;
+  background-color: var(--cor-bg);
+}
